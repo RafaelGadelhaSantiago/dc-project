@@ -2,7 +2,8 @@ function Footer() {
     return (
         <div>
             <div>
-                Footer- Adriana
+                Footer-
+                 Adriana
             </div>
 
         </div>
