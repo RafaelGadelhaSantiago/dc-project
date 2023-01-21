@@ -1,0 +1,17 @@
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .banner__logo-container {
+    flex: 1;
+  }
+  
+  .banner__search-container {
+    flex: 3;
+  }
+  
+  .banner__nav-container {
+    flex: 1;
+  }
