@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__logo-container {
+  flex: 1;
+}
+
+.header__search-container {
+  flex: 3;
+}
+
+.header__nav-container {
+  flex: 1;
+}
