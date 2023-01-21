@@ -1,6 +1,16 @@
 function Banner() {
     return (
         <div>
+            <div style={{
+                width: '100%',
+                border: '1px solid blue',
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+                flexDirection: 'column'
+            }}>
+
+            </div>
             <div>Melhores ofertas personalizadas             
             </div>
             <div>Queima de estoque Nike</div>
