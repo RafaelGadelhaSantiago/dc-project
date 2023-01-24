@@ -1,4 +1,4 @@
-import "./footer.css"
+// import "./footer.css"
 import Digitalogo from './Digitalogo.svg'
 function Footer() {
 
