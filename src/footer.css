@@ -1,0 +1,11 @@
+.fundo {
+    background-color: black;
+    height: 385px;
+}
+    .descricao  {
+        color: white;
+     display: flex;
+     flex-direction: column;
+     text-align: left;
+        
+    }
