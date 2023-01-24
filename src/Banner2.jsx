@@ -2,7 +2,7 @@ function Banner2() {
     return (
         <div>
             <div>
-                Banner2
+                Banner2 - George
             </div>
 
         </div>
