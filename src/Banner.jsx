@@ -1,6 +1,7 @@
 function Banner() {
     return (
         <div>
+                
             <div style={{
                 width: '100%',
                 border: '1px solid blue',
@@ -9,7 +10,7 @@ function Banner() {
                 alignItems: 'center',
                 flexDirection: 'column'
             }}>
-
+                BANNER - Imagem do google
             </div>
             <div style={{
                 color: 'red',
