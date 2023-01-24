@@ -1,8 +1,10 @@
+import tennis from './tennis.svg'
+
 function Banner() {
     return (
         <div>
             <div>
-                BANNER
+                <img src={tennis} alt="" srcset="" />
             </div>
 
         </div>
