@@ -2,7 +2,7 @@ function Banner() {
     return (
         <div>
             <div>
-                BANNER
+                BANNER - Imagem do google
             </div>
 
         </div>
