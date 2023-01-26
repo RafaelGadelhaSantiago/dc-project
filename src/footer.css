@@ -2,10 +2,30 @@
     background-color: black;
     height: 385px;
 }
+h2{
+  color: white;
+}
     .descricao  {
         color: white;
-     display: flex;
+     /* display: flex;
      flex-direction: column;
      text-align: left;
+     flex-direction: column; */
+     margin: 0 auto;
+
+     margin-bottom: 5px;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-around;
+   }
         
+    
+    .container{
+        display: -ms-inline-grid;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+    li{
+        color: white;
     }
