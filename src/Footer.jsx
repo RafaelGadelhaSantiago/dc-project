@@ -1,4 +1,4 @@
-import "./footer.css"
+import React from 'react';
 import Digitalogo from './Digitalogo.svg'
 function Footer() {  
 
