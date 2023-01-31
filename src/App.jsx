@@ -9,11 +9,11 @@ import Products from "./Products";
 function App() {
   return (
     <div>
-      {/* <Header />
+      <Header />
       <Banner />
       <Highlights />
       <Products />
-      <Banner2 /> */}
+      <Banner2 />
       <Footer />
     </div>
   );

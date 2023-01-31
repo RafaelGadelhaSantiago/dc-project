@@ -1,6 +1,6 @@
 import React from 'react';
-import CSS from './Footer.css';
-import Digitalogo from './Digitalogo.svg';
+import './Footer.css';
+import './Digitalogo.svg';
 
 const Footer = () => {
 
