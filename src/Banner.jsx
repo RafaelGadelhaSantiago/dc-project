@@ -1,38 +1,13 @@
 function Banner() {
     return (
-        <div>
-                
-            <div style={{
-                width: '100%',
-                border: '1px solid blue',
-                display: 'flex',
-                justifyContent: 'center',
-                alignItems: 'center',
-                flexDirection: 'column'
-            }}>
-                BANNER - Imagem do google
-            </div>
-            <div style={{
-                color: 'red',
-                width: '100%',
-                border: '1px solid blue',
-                display: 'flex',
-                justifyContent: 'flex',
-                flexDirection: 'column'
+        <div class="container">
 
-            }}>
-                <h4>Melhores ofertas personalizadas</h4>
-            </div>
-            <div style={{
-                color: 'red',
-                width: '100%',
-                border: '1px solid blue',
-                display: 'flex',
-                justifyContent: 'flex',
-                flexDirection: 'column'
+            <div class="info"><h5>Melhores ofertas personalizadas</h5></div>
 
-            }}>
-                <h1>Queima de estoque Nike</h1></div>
+            <div class="info"><h1>Queima de Estoque Nike 🔥</h1></div>
+
+            <div class="info"><h4>Consequat culpa exercitation mollit nisi excepteur do
+                do tempor laboris eiusmod irure consectetur.</h4></div>
 
             <div style={{
                 color: 'red',
@@ -44,7 +19,6 @@ function Banner() {
 
             }}><h5>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat enim dolores, ducimus voluptates beatae porro non? Beatae perferendis obcaecati at, fuga eius facere repellat atque iusto quia tempora, sit necessitatibus.</h5></div>
 
-            <div><input type="button" value="Ver ofertas" /></div>
 
         </div>
     );
