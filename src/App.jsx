@@ -1,19 +1,19 @@
+import Header from "../src/compoents/Header/Header";
 import Banner from "./Banner";
 import Banner2 from "./Banner2";
-import Footer from "./Footer";
-import Header from "./Header";
 import Highlights from "./Highlights";
 import Products from "./Products";
+import Footer from "../src/compoents/Footer/Footer";
 
 
 function App() {
   return (
     <div>
-      {/* <Header />
+      <Header />
       <Banner />
       <Highlights />
       <Products />
-      <Banner2 /> */}
+      <Banner2 />
       <Footer />
     </div>
   );
