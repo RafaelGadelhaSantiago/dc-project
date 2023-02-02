@@ -1,8 +1,5 @@
-
-import './style/slide1.css'
-
-
-import tenis from './assets/tenis.svg'
+import './Slide1.css'
+import tenis from './tenis2.svg'
 
 function Slide1() {
   return (
